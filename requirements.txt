@@ -1,0 +1,5 @@
+
+# Python3 virtualenv requirements
+
+ansible-core>=2.16.1
+pywinrm>=0.3.0

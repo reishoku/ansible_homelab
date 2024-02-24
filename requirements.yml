@@ -1,0 +1,11 @@
+---
+roles:
+  - name: elliotweiser.osx-command-line-tools
+collections:
+  - name: ansible.posix
+  - name: ansible.windows
+  - name: community.general
+  - name: community.crypto
+  - name: community.libvirt
+  - name: fedora.linux_system_roles
+  - name: geerlingguy.mac
